@@ -1,4 +1,4 @@
-# ressie
+# ReSSie
 A decent RSS Reader to replace Google Reader
 
 Client side: Backbone JS, Bootstrap, Require JS, ...
