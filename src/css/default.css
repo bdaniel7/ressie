@@ -1,0 +1,25 @@
+footer {
+    margin: 0 auto; width: 100%; background-color: #c7ddef;
+    text-align: center; display: inline-block;
+}
+
+#content {
+
+}
+
+.draggable {
+    cursor: pointer;
+}
+
+.article {
+    border-top: groove;
+}
+
+#status {
+    visibility: visible; border: 1px ridge ; min-height: 15px; padding: 3px;
+}
+
+.close-container {
+    padding-right: 3px;
+    display: inline-block;
+}
