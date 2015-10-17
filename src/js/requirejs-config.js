@@ -6,7 +6,7 @@ var require = {
     baseUrl: ".", // js is the base path
     paths: {
         "jquery":       "../bower_components/jquery/dist/jquery",
-        "bootstrap":    "../bower_components/bootstrap/dist/bootstrap.min",
+        "bootstrap":    "../bower_components/bootstrap/dist/js/bootstrap",
         "underscore":   "../bower_components/underscore/underscore",
         "backbone":     "../bower_components/backbone/backbone",
         "text": "js/vendor/require.text",
