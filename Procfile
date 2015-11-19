@@ -1,1 +1,1 @@
-web: php ..src/index.html
+web: php src/index.html
